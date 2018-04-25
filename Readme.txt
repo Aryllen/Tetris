@@ -1,5 +1,5 @@
 Nicole Kauer
-Fall 2018
+Fall 2017
 Class Project
 
 Provided the GUI for Tetris using the Swing library in Java. 
